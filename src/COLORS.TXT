@@ -1,0 +1,20 @@
+Red: #C72C41
+Black: #1b262c
+Dark Blue: #0f4c75
+Blue: #3282b8
+Light Blue: #bbe1fa
+
+
+Fonts:
+--Barlow
+--Rasa
+
+
+
+OR
+
+
+Yellow: #fed049
+Teal: #007580
+Dark Purple: #282846
+Light Blue: #d8ebe4
